@@ -1,0 +1,12 @@
+[
+‎  {
+‎    "relation": ["delegate_permission/common.handle_all_urls"],
+‎    "target": {
+‎      "namespace": "android_app",
+‎      "package_name": "io.github.alasfritas.twa",
+‎      "sha256_cert_fingerprints": [
+‎        "D4:DD:74:51:43:E2:46:B2:C0:01:A2:57:39:05:EB:E2:BB:51:CD:FB:7E:BD:8D:A8:A6:F4:CC:0E:1F:E2:2B:89"
+‎      ]
+‎    }
+‎  }
+‎]
